@@ -32,7 +32,7 @@ Diagrama de Fluxo: Um diagrama visual que ilustra as etapas principais do proces
 Criar um projeto tão abrangente e 'natty' com a ajuda de IAs foi um desafio interessante. A utilização de tecnologias avançadas como GPT-4 e DALL-E demonstrou ser uma ferramenta poderosa para gerar conteúdo de alta qualidade de maneira eficiente. A colaboração entre a criatividade humana e a capacidade da IA resultou em um produto final que é ao mesmo tempo esteticamente agradável e informativamente rico.
 ### Exemplos e Insigths
 
-- [E-BOOK](1fmVxw1sLqnfjLaKQKlstv_pqvfJlHtHytXZ4W3EnyqU)
+- [E-BOOK]([1fmVxw1sLqnfjLaKQKlstv_pqvfJlHtHytXZ4W3EnyqU](https://docs.google.com/document/d/e/2PACX-1vTmXmIWL9ASCwnjhYT546gCwpqgMmEjHcYReLfckFQUHh3DNpS_2MS_np0omCUfRtPzT1GS9XXDXiSZ/pub))
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
